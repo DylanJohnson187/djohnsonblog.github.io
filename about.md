@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Dylan "Comma" Johnson I am an amateaur data scientist and Computer Scientist. I hope you enjoy your time picking around in my mind. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Passionate about making the world a better place with technology. 
+Interests include:
+- Machine Learning 
+- Artificial Intelligence
+- Video Games
 
 ### Contact me
 
